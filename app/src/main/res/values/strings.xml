@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Todo Demo</string>
+    <string name="registration">Registration</string>
+    <string name="name">Name</string>
+    <string name="enter_your_name">Enter your Name</string>
+    <string name="enter_your_password">Enter your Password</string>
+    <string name="register">Register</string>
+    <string name="enter_your_e_mail">Enter your E-mail</string>
+    <string name="login">Login</string>
+    <string name="already_have_an_account_login_here">Already have an account?Login here</string>
+    <string name="create_account">Create Account</string>
+    <string name="login_to_your_account">Login to your account</string>
+</resources>
